@@ -26,4 +26,4 @@ A **Python-based web scraper** that extracts job listings from a demo website fo
 
 This project is designed for **learning web scraping techniques** and practicing data extraction, cleaning, and storage without violating any real website policies.  
 
-# [Take a look at the project]()
+[Take a look at the project](https://github.com/rakesh765483/Job-Listing-Scrapper-using-python/blob/main/job_scraper_project_notebook.ipynb)
